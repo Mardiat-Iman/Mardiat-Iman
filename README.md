@@ -1,4 +1,29 @@
-## Hi there 👋
+<!--
+# 👋 Hi there, I'm Mardiat!
+- 🌱 Currently learning: AI, Data Science and Machine Learning
+- 🔭 Working on: Data Science Certification
+- 😄 Love to research on a variety of topics
+- ⚡ Fun fact: I love watching F1
+-->
+# 👋 Hi there, I'm Mardiat!
+- 🌱 I’m currently diving deep into the world of AI, Data Science, and Machine Learning — there’s so much to explore!
+- 🔭 Right now, I’m working on earning my Data Science Certification to level up my skills.
+- 😄 I’m a curious soul who loves researching everything from tech trends to fascinating random facts. Got something cool to share? Let me know!
+- ⚡ Fun fact: I’m a huge F1 fan 🏎️ — ask me about my favorite race or team!
+
+
+## 🚀 Recent Projects
+- [Smart Recipe Book](https://github.com/Mardiat-Iman/recipe-book-mlh-data-week)
+- [Biodiversity Analysis](https://github.com/Mardiat-Iman/Codecademy-Data-Science-Path-)
+
+## 🤝 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mardiat-iman//)
+- [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/miruless#2502)
+
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mardiat-Iman&show_icons=true&theme=radical&hide=contribs,stars)
+
 
 <!--
 **Mardiat-Iman/Mardiat-Iman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
