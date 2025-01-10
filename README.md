@@ -6,10 +6,9 @@
 - ⚡ Fun fact: I love watching F1
 -->
 # 👋 Hi there, I'm Mardiat!
-- 🌱 I’m currently diving deep into the world of AI, Data Science, and Machine Learning — there’s so much to explore!
+- 🌱 I’m currently diving deep into the world of AI, Data Science, and Machine Learning.
 - 🔭 Right now, I’m working on earning my Data Science Certification to level up my skills.
-- 😄 I’m a curious soul who loves researching everything from tech trends to fascinating random facts. Got something cool to share? Let me know!
-- ⚡ Fun fact: I’m a huge F1 fan 🏎️ — ask me about my favorite race or team!
+- ⚡ Fun fact: I’m a huge F1 fan 🏎️ 
 
 
 ## 🚀 Recent Projects
