@@ -13,7 +13,7 @@ I love learning new things and putting my skills to the test. I’ve had a few i
 # About Me
 - 🌱 I’m currently diving deep into the world of AI, Data Science, and Machine Learning.
 - 🔭 Right now, I’m working on earning my Data Science Certification to level up my skills.
-- ⚡ Fun fact: I’m a huge F1 fan 🏎️ 
+- ⚡ Fun fact: I LOVE READING 📖 
 
 
 ## 🚀 Recent Projects
