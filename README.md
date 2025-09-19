@@ -10,11 +10,11 @@ I love learning new things and putting my skills to the test. I’ve had a few i
 
 <!-- ![image](https://github.com/user-attachments/assets/e9cd17d0-898b-4fc1-a230-2a733a0ac0c1) -->
 
-# 👋 Hi there, I'm Mardiat!
+# About Me
 - 🌱 I'm currently diving deep into the world of AI, Data Science, and Machine Learning.
 - 🔭 Working on: Computer Science Degree
 - 😄 Love to research on a variety of topics
-- ⚡ Fun fact: I love watching F1 🏎️
+- ⚡ Fun fact: I'm a HUGE F1 fan🏎️
 
 
 
