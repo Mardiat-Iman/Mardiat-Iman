@@ -18,10 +18,11 @@ I love learning new things and putting my skills to the test. I’ve had a few i
 
 
 
-
+<!--
 ## 🚀 Recent Projects
 - [Smart Recipe Book](https://github.com/Mardiat-Iman/recipe-book-mlh-data-week)
 - [Biodiversity Analysis](https://github.com/Mardiat-Iman/Codecademy-Data-Science-Path-)
+-->
 
 ## 🤝 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mardiat-iman//)
